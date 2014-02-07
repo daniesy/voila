@@ -1,4 +1,4 @@
-csscript
+VOILÀ
 ========
 
-A light library to preview css code
+A light library to parse HTML and CSS in the browser.
