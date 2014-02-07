@@ -3,6 +3,9 @@ VOILÀ
 
 A light library to parse HTML and CSS in the browser.
 
+## How does VOILÀ work:
+![voila_usage](https://raw2.github.com/Daniesy/voila/master/screen.gif)
+
 ## Usage
 
 1 - Include voila.js
