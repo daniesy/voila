@@ -4,7 +4,7 @@ VOILÀ
 A realtime light library to parse HTML and CSS in the browser.
 
 ## How does VOILÀ work:
-![voila_usage](https://raw2.github.com/Daniesy/voila/master/screen.gif)
+![voila_usage](https://raw.githubusercontent.com/Daniesy/voila/master/screen.gif)
 
 ## Usage
 
